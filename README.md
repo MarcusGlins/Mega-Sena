@@ -1,6 +1,7 @@
 # Mega-Sena
 Gerador de jogos
 
+
 ## Objetivo:
 Este programa tem como objetivo principal gerar jogos de acordo com as regras estabelecidas pelo usuário.
 
