@@ -3,7 +3,7 @@
 Este programa tem como objetivo principal gerar jogos de acordo com as regras estabelecidas pelo usuário.
 
 ## Andamento:
-- [ ] Inserir os número dos jogos de todos os concursos.
+- [ ] Inserir os números dos jogos de todos os concursos.
 
 
 ##
