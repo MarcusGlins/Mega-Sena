@@ -83,5 +83,8 @@ class MegaSena {
       }
       System.out.println();
     }
+
+    // Função que mostra os números mais frequentes
+
   }
 }
