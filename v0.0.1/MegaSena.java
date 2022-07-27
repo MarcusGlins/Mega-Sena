@@ -1,5 +1,10 @@
+// Classe Principal
 class MegaSena {
   public static void main(String[] args) {
+    Concursos jogos = new Concursos();
+
+    jogos.exibeConcursos();
+    /*
     int[][] jogos = {
     // Todos os concursos de 1996
     // Março: 3 concursos
@@ -85,6 +90,6 @@ class MegaSena {
     }
 
     // Função que mostra os números mais frequentes
-
+    */
   }
 }
