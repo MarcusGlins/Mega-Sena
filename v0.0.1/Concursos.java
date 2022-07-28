@@ -14,9 +14,9 @@ class Concursos {
   void exibeConcursos() {
     int cont=1;
 
-    for (int linha=0; linha < concursos.length; linha++) {
-      for (int col=0; col < concursos[linha].length; col ++) {
-	System.out.printf("%2d ", concursos[linha][col]);
+    for (int linha=0; linha < this.concursos.length; linha++) {
+      for (int col=0; col < this.concursos[linha].length; col ++) {
+	System.out.printf("%2d ",this.concursos[linha][col]);
       }
       
       cont++;
@@ -30,4 +30,13 @@ class Concursos {
     }
     System.out.println();
   }
+
+  void numerosMaisFrequentes() {
+    for (int linha=0; linha < this.concursos.length; linha++) {
+      for (int col=0; col < this.concursos.length; col++) {
+	// Inserir código aqui	
+      }
+    }
+  }
 }
+
